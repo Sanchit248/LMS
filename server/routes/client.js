@@ -1,5 +1,5 @@
 import express from "express";
-//hello//send
+
 import {
   getCustomers,
   getGeography,
